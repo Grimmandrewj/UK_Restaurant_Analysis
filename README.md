@@ -1,8 +1,8 @@
 # Goal
 - For this project, I was tasked with evaluating restaurant rating data from the UK Food Standards Agency to assist journalists and food critis from a food magazine, *Eat Save, Love*, in order that they can decide where to focus future articles.
 - For Part 1, I was to set up the database and jupyter notebook to prepare for the analysis.
-- For Part 2, I was to Update the database with the appropriate data and datatypes
-- For Part 3, I was to complete the exploratory analysis of the data
+- For Part 2, I was to Update the database with the appropriate data and datatypes.
+- For Part 3, I was to complete the exploratory analysis of the data.
 
 
 # Method
